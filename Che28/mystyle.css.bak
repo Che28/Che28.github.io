@@ -1,0 +1,43 @@
+a:link{
+	color : green;
+	}
+	
+a:visited{
+	color : red;
+	}
+	
+a:hover{
+	color : yellow;
+	}
+	
+a:active{
+	color : blue;
+	}
+
+img:hover{
+	transform:scale(1.2);
+	border-radius:50%;
+}
+
+c1{
+	background-color:yellow;
+	text-shadow: 3px 3px 6px #000000;
+}
+
+f {
+	font-family: "Arial", sans-serif;
+	font-size: 64px;
+	font-style: oblique;
+	color: blue;
+}
+
+div l{
+	width: 30px;
+	height : 50px;
+	background : tomato;
+	transition : width 2s;
+}
+
+.good1 : hover{
+	width : 824px;
+}
